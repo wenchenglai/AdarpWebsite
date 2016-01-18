@@ -3060,8 +3060,29 @@ fieldset[disabled] a.btn {
   pointer-events: none;
 }
 
+.btn-yellow {
+    background-color: #fac141;
+    font-size:38px;
+    font-weight:bolder;
+    color: black;
+}
+
+.main-text {
+    color: #fac141;
+    font-size: 36pt;
+}
+
+.main-text-sub {
+    color: #
+}
+
 .title_text_color {
     color: #f09547 ;
+}
+
+.black-title-text {
+    font-weight:bolder;
+    color: #000000;
 }
 
 .btn-default {
